@@ -17,12 +17,12 @@ img{
 }
 /* */
 h1{font-family: 'Roboto Condensed', sans-serif;}
-h2{font-family: 'Roboto Condensed', sans-serif;}
+h2{font-family: 'Roboto Condensed', sans-serif; font-size: 120%}
 h3{font-family: 'Open Sans', sans-serif;}
 h4{font-family: 'Open Sans', sans-serif;}
 h5{font-family: 'Roboto Condensed', sans-serif;}
 h6{font-family: 'Roboto Condensed', sans-serif;}
-p{font-family: 'Open Sans', sans-serif;  font-size: x-small;}
+p{font-family: 'Roboto Condensed', sans-serif; font-size: 90%;}
 
 /* */
 .navbar{top:36px;}

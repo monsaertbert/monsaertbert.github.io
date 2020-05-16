@@ -3859,7 +3859,7 @@ tbody.collapse.show {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #000;
 }
 
 .nav-tabs {
@@ -6155,7 +6155,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: rgba(255, 255, 255, 0.7) !important;
+  background-color: rgba(255, 255, 255, 0.9) !important;
 }
 
 .bg-transparent {
